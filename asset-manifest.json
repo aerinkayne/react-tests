@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-tests/static/css/main.08b27dfa.chunk.css",
+    "main.js": "/react-tests/static/js/main.a71e9ca6.chunk.js",
+    "main.js.map": "/react-tests/static/js/main.a71e9ca6.chunk.js.map",
+    "runtime-main.js": "/react-tests/static/js/runtime-main.428c3551.js",
+    "runtime-main.js.map": "/react-tests/static/js/runtime-main.428c3551.js.map",
+    "static/js/2.ac6f2abd.chunk.js": "/react-tests/static/js/2.ac6f2abd.chunk.js",
+    "static/js/2.ac6f2abd.chunk.js.map": "/react-tests/static/js/2.ac6f2abd.chunk.js.map",
+    "index.html": "/react-tests/index.html",
+    "precache-manifest.81123457e89392b4cf0d57dd79948c69.js": "/react-tests/precache-manifest.81123457e89392b4cf0d57dd79948c69.js",
+    "service-worker.js": "/react-tests/service-worker.js",
+    "static/css/main.08b27dfa.chunk.css.map": "/react-tests/static/css/main.08b27dfa.chunk.css.map",
+    "static/js/2.ac6f2abd.chunk.js.LICENSE.txt": "/react-tests/static/js/2.ac6f2abd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-tests/static/media/pexels-photo-235985pixabay.11572a3e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.428c3551.js",
+    "static/js/2.ac6f2abd.chunk.js",
+    "static/css/main.08b27dfa.chunk.css",
+    "static/js/main.a71e9ca6.chunk.js"
+  ]
+}
